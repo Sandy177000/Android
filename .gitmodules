@@ -1,3 +1,6 @@
 [submodule "BasicWeatherApp"]
 	path = BasicWeatherApp
 	url = https://github.com/Sandy177000/basicWeatherApp
+[submodule "spliteasy"]
+	path = spliteasy
+	url = https://github.com/Sandy177000/spliteasy
